@@ -1,0 +1,3 @@
+[submodule "Lesson1/external/ml-agents"]
+	path = Lesson1/external/ml-agents
+	url = https://github.com/Unity-Technologies/ml-agents
